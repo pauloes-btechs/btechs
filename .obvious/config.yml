@@ -1,0 +1,12 @@
+# obvious config — pauloes-btechs/btechs
+repository: btechs
+defaultBranch: main
+
+# Branch policy for agent-created setup/work PRs.
+branches:
+  prefix: obvious/
+
+# Merge policy: squash merges to keep the empty history clean once work starts.
+merge:
+  method: squash
+  requireHumanApproval: true
