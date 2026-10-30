@@ -13,14 +13,12 @@ an application here unless explicitly asked.
 
 ## Verify commands
 
-None exist yet — no package manifest (`package.json` / `requirements.txt`), build
-system, or tests. `git status` plus a clean checkout is the only verification
-available. Do not invent commands.
+None exist yet — no package manifest, build system, or tests. `git status` plus
+a clean checkout is the only verification available. Do not invent commands.
 
 ## Done criteria
 
-Required change pushed on a feature branch; CI green when configured; zero
-unreplied review comments; PR describes the actual shipped scope.
+Required change pushed on a feature branch; CI green when configured; zero unreplied review comments.
 
 ## Escalation rules — no early return
 
@@ -29,5 +27,4 @@ unreplied review comments; PR describes the actual shipped scope.
 3. **Maintain repository guidance.** Keep this file (and `.obvious/`) current.
 4. **Human-only blockers only.** Return only for genuine human decisions.
 
-**Safety override:** platform safety rules and explicit user instructions take
-precedence over this contract.
+**Safety override:** platform safety rules and explicit user instructions take precedence.
