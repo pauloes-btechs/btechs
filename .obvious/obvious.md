@@ -2,10 +2,8 @@
 
 ## Repository
 
-**btechs** — currently an empty repository. Contains only `LICENSE` and a
-placeholder `README.md` (`# btechs`). There is no application code, no
-dependency manifest, no Dockerfile/Compose/Makefile, and no CI configuration
-yet.
+**btechs** — currently has no application code: no dependency manifest, no
+Dockerfile/Compose/Makefile, and no CI configuration yet.
 
 ## Stack & Commands
 
@@ -27,9 +25,10 @@ Not applicable — no build system, no tests, no local dev environment.
 
 ## Snapshot
 
-No snapshot exists for this repository. The empty repo cannot reach a healthy
-dev stack, so sandbox snapshot capture was deliberately skipped during
-onboarding. A snapshot will be taken by the next setup run once the app runs.
+No snapshot exists for this repository. With no application code, the repo
+cannot reach a healthy dev stack, so sandbox snapshot capture was deliberately
+skipped during onboarding. A snapshot will be taken by the next setup run once
+the app runs.
 
 ## Notes for Agents
 
