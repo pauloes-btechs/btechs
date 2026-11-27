@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repository is intentionally empty (README + LICENSE only). Stack, commands,
+This repository intentionally has no application code yet. Stack, commands,
 and codebase map are **to be initialized via the starter brief**. Do not scaffold
 an application here unless explicitly asked.
 

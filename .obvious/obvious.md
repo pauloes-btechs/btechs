@@ -2,10 +2,8 @@
 
 ## Repository
 
-**btechs** — currently an empty repository. Contains only `LICENSE` and a
-placeholder `README.md` (`# btechs`). There is no application code, no
-dependency manifest, no Dockerfile/Compose/Makefile, and no CI configuration
-yet.
+**btechs** — currently has no application code: no dependency manifest, no
+Dockerfile/Compose/Makefile, and no CI configuration yet.
 
 ## Stack & Commands
 
